@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6174
     wikipedia: http://en.wikipedia.org/wiki/Edward_Charles_Pickering
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35613#A-Plan-for-Securing-Observations-of-the-Variable-Stars
 gutenberg_issued: '2011-03-19'
 gutenberg_type: Text
 identifiers:
