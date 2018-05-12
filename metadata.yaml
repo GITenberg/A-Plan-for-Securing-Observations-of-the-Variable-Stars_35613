@@ -1,0 +1,31 @@
+_repo: A-Plan-for-Securing-Observations-of-the-Variable-Stars_35613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pickering, Edward C. (Edward Charles)
+    aliases:
+    - Pickering, Edward Charles
+    - Pickering, E. C. (Edward Charles)
+    birthdate: 1846
+    deathdate: 1919
+    gutenberg_agent_id: '6174'
+    url: http://www.gutenberg.org/2009/agents/6174
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Charles_Pickering
+description: ''
+gutenberg_issued: '2011-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35613'
+  lccn: 09027538
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Variable stars'
+- !lcc 'QB'
+title: A Plan for Securing Observations of the Variable Stars
+url: http://www.gutenberg.org/ebooks/35613
